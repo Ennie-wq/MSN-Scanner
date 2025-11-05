@@ -1,0 +1,38 @@
+MSN-Scanner
+
+MSN-Scanner is a lightweight Python-based vulnerability scanner built for **educational and authorized penetration testing**.  
+It helps security professionals and learners perform quick reconnaissance and vulnerability checks on network assets.
+
+---
+
+Motivation: Why I Built This
+
+In Nigeria’s rapidly evolving technology ecosystem, many organizations — especially **SMEs, fintechs, and educational institutions** — face growing cybersecurity threats but **lack affordable, accessible vulnerability assessment tools**.  
+Most commercial scanners are expensive, require advanced infrastructure, or demand specialized training that many small IT teams can’t easily access.
+
+I created MSN-Scanner to bridge this gap by providing a simple, open-source vulnerability scanning solution that:
+- Helps organizations identify basic security weaknesses early
+- Encourages local cybersecurity awareness and skill development
+- Supports students and professionals in learning how scanners operate internally
+
+My goal is to empower the next generation of Nigerian and African cybersecurity engineers with practical, cost-effective tools built locally for local challenges.
+
+---
+
+ 🚀 Features
+- TCP Port Scanning  
+- Banner Grabbing  
+- Basic Vulnerability Fingerprinting  
+- HTML / PDF Scan Report Generation  
+- Simple Command-Line Interface  
+
+---
+
+🧩 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Ennie-wq/MSN-Scanner.git
+cd MSN-Scanner
+pip install -r requirements.txt

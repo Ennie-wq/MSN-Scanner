@@ -1,0 +1,18 @@
+# Ignore Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore reports or logs
+*.pdf
+*.log
+*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
